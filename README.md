@@ -61,3 +61,4 @@ GEMINI_API_KEY=your_api_key_here
 ## GitHub 專案連結
 
 請填入小組各組員 GitHub repository 網址。
+葉書愷:https://github.com/kyleyeh0722/chatbot
