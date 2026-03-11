@@ -68,7 +68,7 @@ GEMINI_API_KEY=your_api_key_here
 
 ## GitHub 專案連結
 
-葉書愷:https://github.com/kyleyeh0722/chatbot
-黃元稜：https://github.com/Lengcold230/AIagentClass_Chatbot
-江庭翔:https://github.com/squidj193-sudo/chatbot
-吳東霖:https://github.com/d1123883/chatbot.git
+*葉書愷:https://github.com/kyleyeh0722/chatbot
+*黃元稜：https://github.com/Lengcold230/AIagentClass_Chatbot
+*江庭翔:https://github.com/squidj193-sudo/chatbot
+*吳東霖:https://github.com/d1123883/chatbot.git
